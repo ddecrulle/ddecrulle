@@ -6,8 +6,6 @@ I'm Dylan, a 25 years old web developer from France.
 
 - :briefcase: FrontEnd Developper at [Insee](https://github.com/InseeFr/)
 
-- :computer: I'm learning TypeScript
-
 - :e-mail: Ask me about anything [here](mailto:dylan.decrulle@insee.fr)
 
 ## 🔧 Technologies & Tools
