@@ -4,7 +4,7 @@ I'm Dylan, a 25 years old web developer from France.
 
 ## About me
 
-- :briefcase: FrontEnd Developper at [Insee](https://github.com/InseeFr/)
+- :briefcase: Full Stack Developper at [Insee](https://github.com/InseeFr/)
 
 - :e-mail: Ask me about anything [here](mailto:dylan.decrulle@insee.fr)
 
