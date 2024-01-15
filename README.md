@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Dylan, a 25 years old developer from France.
+I'm Dylan, a developer from France.
 
 ## About me
 
